@@ -1,0 +1,80 @@
+# Compiled binaries & installers
+*.exe
+*.dll
+*.so
+*.dylib
+*.apk
+*.aab
+*.msi
+*.ico
+
+# Archives & large model/database blobs
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.bin
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets, sessions & logs
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+*session*
+*.log
+*.key
+*.pem
+.moodle_sync_state.json
+.moodle_session.json
+
+# Build, cache & IDE directories
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+node_modules/
+build/
+dist/
+.dart_tool/
+.idea/
+.vscode/
+.pytest_cache/
+
+# Packaging & launcher scripts
+*.spec
+*.bat
+*.sh
+*.command
+.github/workflows/
+
+# Local runtime reports & scratch docs
+sync_report.json
+verification_report.md
+DEAD_ENDS.md
+PROJECT.md
+TEST_INFRA.md
+TEST_READY.md
+
+# Local workspace & personal study directories
+.agents/
+Computer Organization/
+Control Systems/
+Electronic circuits/
+Image and Video Processing/
+Microprocessor System Design/
+Poultry_Project/
+Practical Training 1/
+Safe_To_Share_With_Friends/
+Schedule/
+Software Engineering/
