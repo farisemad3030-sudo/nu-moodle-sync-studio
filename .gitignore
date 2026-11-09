@@ -10,6 +10,8 @@
 
 # Archives & large model/database blobs
 *.zip
+!releases/
+!releases/NU_Moodle_Sync_Studio_Windows.zip
 *.tar.gz
 *.7z
 *.rar

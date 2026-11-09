@@ -6,8 +6,11 @@
 [![Requests](https://img.shields.io/badge/Requests-HTTP%2F2-00599C?style=for-the-badge)](https://requests.readthedocs.io/)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-Media%20Engine-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=for-the-badge)](LICENSE)
+[![Download Windows App](https://img.shields.io/badge/Windows_App-Download_.ZIP-0078D6?style=for-the-badge&logo=windows&logoColor=white)](releases/NU_Moodle_Sync_Studio_Windows.zip)
 
 **NU Moodle Sync Studio** is an automated course synchronization engine and interactive local web application built for **Nile University's Moodle LMS**. It streamlines academic resource management by authenticating via **Microsoft Entra ID (Azure AD) Single Sign-On**, discovering enrolled courses and nested modules, resolving embedded **SharePoint / OneDrive / Microsoft Stream** lecture recordings, deduplicating against existing local directories, and organizing materials into a clean, standardized folder hierarchy.
+
+> **Standalone Windows Desktop Package Available**: Download [`releases/NU_Moodle_Sync_Studio_Windows.zip`](releases/NU_Moodle_Sync_Studio_Windows.zip), extract the archive, and run `NU_Moodle_Sync_Studio.exe` directly on Windows (no Python installation required).
 
 ---
 
